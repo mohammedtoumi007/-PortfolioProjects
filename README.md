@@ -1,4 +1,4 @@
-# Data Cleaning Project Using Microsoft SQL Server
+# Data Exploration Project Using Microsoft SQL Server
 Data Science Project using SQL & Tableau- Covid-19 Data Exploration Project
 
 This project involves extracting the Covid-19 data (Covid deaths and vaccinations related) ranging from early February, 2020 to the end of Decembre, 2021.
