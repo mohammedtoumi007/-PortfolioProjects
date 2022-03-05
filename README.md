@@ -14,7 +14,7 @@ Tableau Public Dashboard Link: https://public.tableau.com/app/profile/mohammed.a
 # A SQL data cleaning project using the Nashville housing dataset.
 
 The following task completed for this project:
-  - Standardized date format using <CAST> and updated the table.
+  - Standardized date format using /CAST/ and updated the table.
   - By using a SELF JOIN, populated the PropertyAddress fields where the value is NULL.
   - Broken out PropertyAddress and OwnerAddress fields into individual columns using SUBSTRING and PARSENAME functions.
   - Changing Y and N to Yes and No in the SoldAsVacant field using CASE statement.
