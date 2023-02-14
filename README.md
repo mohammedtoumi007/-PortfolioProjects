@@ -19,3 +19,11 @@ The following task completed for this project:
   - Changing Y and N to Yes and No in the SoldAsVacant field using CASE statement.
   - Removed Duplicates using ROW_NUMBER, PARTITION BY, and CTE.
   - Deleted a few unused fields using the DROP command.
+  
+  # Data cleaning process and dashboard creation in Excel : Bike Sales Dashboard
+  - Cleaning Data with power Query
+  - Create Pivot Table
+ 
+  ![pivot table](https://user-images.githubusercontent.com/55878755/218800504-871e688d-7904-48e0-b56b-580e2efbe01e.png
+  
+   - Create a Dashboard
