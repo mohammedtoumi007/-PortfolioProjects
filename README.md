@@ -22,6 +22,9 @@ The following task completed for this project:
   
   # Data cleaning process and dashboard creation in Excel : Bike Sales Dashboard
   - Cleaning Data with power Query
+  
+  ![Cleaning](https://user-images.githubusercontent.com/55878755/218802916-56c80ef5-cb5e-45d8-afbe-65c127bcacde.png)
+  
   - Create Pivot Table
  
   ![pivot table](https://user-images.githubusercontent.com/55878755/218800504-871e688d-7904-48e0-b56b-580e2efbe01e.png)
