@@ -27,3 +27,5 @@ The following task completed for this project:
   ![pivot table](https://user-images.githubusercontent.com/55878755/218800504-871e688d-7904-48e0-b56b-580e2efbe01e.png
   
    - Create a Dashboard
+   
+   ![dashboard](https://user-images.githubusercontent.com/55878755/218801371-198448e0-fcae-468d-8c28-93f2037e065d.png)
